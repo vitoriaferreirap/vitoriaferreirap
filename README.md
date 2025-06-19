@@ -1,7 +1,7 @@
 ## Hi there, eu sou Vitoria Ferreira 👋
 
 - 🔭 Atualmente estou trabalhando em projetos pessoais para iniciar minha carreira ...
-- 🌱 Meu foco hoje é: Java e SprintBoot..
+- 🌱 Meu foco hoje é: Java.
 - 👯 Procuro aprofundar meus estudos diariamente ...
 - 📫 Como entrar em contato comigo: https://vitoriaferreiradev.com.br/
 
