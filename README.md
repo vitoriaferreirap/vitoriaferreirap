@@ -1,4 +1,4 @@
-# Olá, eu sou a Vitória! 👋
+# Olá, eu sou a Vitoria! 👋
 
 Bem-vindo(a) ao meu perfil do GitHub!  
 Estou cada dia mais apaixonada por desenvolvimento de software, com foco especial no ecossistema **Java** e **Spring Boot**. 
