@@ -1,29 +1,49 @@
-## Hi there, eu sou Vitoria Ferreira 👋
+# Olá, eu sou a Vitória! 👋
 
-- 🔭 Atualmente estou trabalhando em projetos pessoais para iniciar minha carreira ...
-- 🌱 Meu foco hoje é: Java.
-- 👯 Procuro aprofundar meus estudos diariamente ...
-- 📫 Como entrar em contato comigo: https://vitoriaferreiradev.com.br/
+Bem-vindo(a) ao meu perfil do GitHub!  
+Estou cada dia mais apaixonada por desenvolvimento de software, com foco especial no ecossistema **Java** e **Spring Boot**. 
 
-<div align="center">
- 
-  <a href="https://github.com/vitoriaferreirap">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaferreirap&layout=compact&langs_count=7&theme=dracula" />
-  </a>
-</div>
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Dev-node" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Dev-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-    <img  align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img  align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+## 🚀 Sobre mim
 
-</div>
+- Curtindo criar APIs
+- Testando APIs com Postman
+- Atualmente aprendendo sobre arquitetura de software, padrões de projeto e os princípios SOLID
+- Experiência prática com PostgreSQL e MySQL
 
-##
+---
 
-</div>
+<p align="left">
+  <img alt="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Spring Boot" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="Maven" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
+  <img alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Google Cloud" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+  <img alt="Postman" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+  <img alt="PostgreSQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</p>
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaferreirap&layout=compact&hide_progress=false&langs_count=8&theme=default)
+
+---
+
+## 🎯 Objetivos
+
+- Aprofundar conhecimentos em **arquitetura de software** e **boas práticas**
+- Aprofundar meus aprendizados sobre o universo Spring, Java e tecnologias modernas
+
+---
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/vitoriaferreiradev/)
+
+
+---
+
+Vamos juntos construir soluções incríveis! 🚀
