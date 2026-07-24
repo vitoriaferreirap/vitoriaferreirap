@@ -1,49 +1,25 @@
 # Olá, eu sou a Vitoria! 👋
+### Desenvolvedora de Software | Full Stack 
 
-Bem-vindo(a) ao meu perfil do GitHub!  
-Estou cada dia mais apaixonada por desenvolvimento de software, com foco especial no ecossistema **Java** e **Spring Boot**. 
+#### Estudante de Engenharia de Software na **UTFPR**, com experiência prática no desenvolvimento de APIs RESTful, modelagem de dados relacionais e automação de fluxos backend. Foco em arquitetura limpa, padrões de projeto e boas práticas de engenharia.
+---
+
+## 💻 Stack Tecnológica
+
+* **Linguagens & Core:** Java (17/21), TypeScript, JavaScript
+* **Frameworks & Ecossistema:** Spring Boot 3, Spring Data JPA, Spring Security, Maven
+* **Arquitetura & Qualidade:** Arquitetura em Camadas (MVC), Design Patterns (DAO, Factory), Princípios SOLID, Clean Code
+* **Bancos de Dados & Persistência:** PostgreSQL, MySQL, H2, JDBC
+* **Infraestrutura & Ferramentas:** Docker, Docker Compose, Google Cloud (GCP), Git, GitHub Actions, Postman
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Principais Projetos
 
-- Curtindo criar APIs
-- Testando APIs com Postman
-- Atualmente aprendendo sobre arquitetura de software, padrões de projeto e os princípios SOLID
-- Experiência prática com PostgreSQL e MySQL
+## 🛠️ O que eu construo e resolvo
 
----
-
-<p align="left">
-  <img alt="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="Spring Boot" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img alt="Maven" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
-  <img alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="Google Cloud" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  <img alt="Postman" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-  <img alt="PostgreSQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</p>
+* **APIs RESTful de Alta Coesão:** Desenvolvimento de serviços web estruturados, garantindo validação de dados, tratamento de exceções robusto e documentação clara.
+* **Modelagem e Persistência de Dados:** Projetando esquemas relacionais eficientes, otimizando consultas e utilizando ORMs com foco em boas práticas de transação e performance.
+* **Arquitetura e Manutenibilidade:** Aplicação constante de princípios SOLID, desacoplamento de camadas e padrões de projeto para entregar códigos fáceis de testar e escalar.
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaferreirap&layout=compact&hide_progress=false&langs_count=8&theme=default)
-
----
-
-## 🎯 Objetivos
-
-- Aprofundar conhecimentos em **arquitetura de software** e **boas práticas**
-- Aprofundar meus aprendizados sobre o universo Spring, Java e tecnologias modernas
-
----
-
-## 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/vitoriaferreiradev/)
-
-
----
-
-Vamos juntos construir soluções incríveis! 🚀
